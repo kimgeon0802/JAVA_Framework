@@ -8,6 +8,7 @@ public class Hello {
 	List<String> names;
 
 	public Hello() {
+		
 	}
 
 	public Hello(String name, Printer printer) {
